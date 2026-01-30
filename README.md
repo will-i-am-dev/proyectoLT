@@ -5,9 +5,8 @@
 
 ## 📋 Descripción General
 
-Este proyecto implementa un sistema end-to-end para la gestión de solicitudes de tarjetas de crédito digitales, diseñado para digitalizar y automatizar todo el proceso de solicitud, evaluación, aprobación y emisión de tarjetas de crédito a través de canales digitales.
-
-
+Sistema para la gestión end-to-end de solicitudes de tarjetas de crédito digitales, implementado con NestJS y Clean Architecture, APIs REST documentadas con OpenAPI/Swagger, persistencia en MongoDB y frontend en Next.js para el flujo de solicitud.
+Incluye manejo de estados, reglas de negocio y testing automatizado.
 
 ## 🏗️ Arquitectura del Sistema
 
