@@ -170,7 +170,7 @@ NEXT_PUBLIC_API_URL=http://localhost:3001/api/v1
 
 ```bash
 # 1. Clonar repositorio
-git clone <repository-url>
+git clone https://github.com/will-i-am-dev/proyectoLT
 cd proyectoLT
 
 # 2. Instalar dependencias del Backend
