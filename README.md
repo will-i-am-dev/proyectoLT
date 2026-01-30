@@ -112,7 +112,6 @@ proyectoLT/
 │   └── package.json
 │
 ├── docs/                           # Documentación técnica
-│   ├── context-prompt.md           # Contexto del proyecto
 │   └── mulesoft-mock-api.md        # Documentación API MuleSoft
 │
 ├── .gitignore
