@@ -5,7 +5,7 @@
 
 ## 📋 Descripción General
 
-Sistema end-to-end para la gestión de solicitudes de tarjetas de crédito digitales.
+Este proyecto implementa un sistema end-to-end para la gestión de solicitudes de tarjetas de crédito digitales, diseñado para digitalizar y automatizar todo el proceso de solicitud, evaluación, aprobación y emisión de tarjetas de crédito a través de canales digitales.
 
 
 
